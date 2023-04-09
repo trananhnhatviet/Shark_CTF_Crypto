@@ -1,4 +1,4 @@
-**Cách Submit Flag trên file Code_For_Submit**
+**Cách Submit Flag trên file Code_For_Submit.py**
 
 - Chạy code 
 - Chọn bài muốn Submit
