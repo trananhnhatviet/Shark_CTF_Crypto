@@ -1,4 +1,4 @@
-#Bài này khum biết cho đề kiểu gìii
+#HVC là gì, bối rối quá trời lunnnnn
 
 def xor(a: bytes, b: bytes):
     return bytes([a[i%len(a)] ^ b[i%len(b)] for i in range(max(len(a), len(b)))])
